@@ -1,3 +1,3 @@
 # iOS-GradientView
 
-![alt text](gradient.png "Gradient Views Screenshot")
+![alt text](GradientWorkout/gradient.png "Gradient Views Screenshot")
